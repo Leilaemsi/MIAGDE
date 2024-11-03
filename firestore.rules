@@ -1,0 +1,8 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /Utilisateurs/{userId} {
+      allow read: if true; // Autoriser la lecture de tous les utilisateurs
+    }
+  }
+}
