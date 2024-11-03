@@ -13,7 +13,12 @@
   - L'utilisateur connecté est dirigé vers la page principale.
   - Message d'erreur si les informations sont incorrectes.
   
-**Vidéo de démonstration** : [Connexion](https://github.com/user-attachments/assets/6976c12a-1635-4076-a8b1-c6513a179951)
+**Vidéo de démonstration** : [Connexion]
+
+
+https://github.com/user-attachments/assets/79114c18-e208-40af-a45a-d85192ea05da
+
+
 
 ---
 
@@ -51,7 +56,11 @@
   - "Retour" pour revenir à la liste
   - "Ajouter au panier"
 
-**Vidéo de démonstration** : [Détails des vêtements - Gestion du panier - Liste des vêtements et détails](https://github.com/user-attachments/assets/6dd37838-809e-4d49-8fa7-6ffe8a32e775)
+**Vidéo de démonstration** : [Détails des vêtements - Gestion du panier - Liste des vêtements et détails]
+
+
+https://github.com/user-attachments/assets/3d2636e4-c46f-43c9-a8d4-ffa6e83ae0c3
+
 
 ---
 
@@ -66,7 +75,12 @@
   - **Ville**
 - **Modification** : Possibilité de modifier et sauvegarder les informations.
 
-**Vidéo de démonstration** : [Affichage et modification du profil](https://github.com/user-attachments/assets/d17ef1ed-564a-4fa5-96a4-15fe86da7e09)
+**Vidéo de démonstration** : [Affichage et modification du profil]
+
+
+
+https://github.com/user-attachments/assets/0645d9ba-6306-434a-813c-dfdfe58999ae
+
 
 ---
 
@@ -80,7 +94,12 @@
   - **Marque**
   - **Prix**
 
-**Vidéo de démonstration** : [Ajout d'un vêtement](https://github.com/user-attachments/assets/7174caec-b242-4ff3-be20-960cd6040b7a)
+**Vidéo de démonstration** : [Ajout d'un vêtement]
+
+
+
+https://github.com/user-attachments/assets/faba12d0-db04-433e-b123-2428c87db937
+
 
 ---
 
